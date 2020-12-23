@@ -41,3 +41,8 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.divide {
+  display: flex;
+  justify-content: space-between;
+}
